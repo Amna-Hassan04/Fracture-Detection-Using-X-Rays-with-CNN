@@ -5,7 +5,8 @@
 
 Bone fractures are a major global health challenge, especially in **low-resource regions** where radiology expertise is limited. This project introduces an **AI-based applied innovation** that leverages **deep learning** to automatically detect fractures from X-ray images.  
 
----
+![WhatsApp Image 2025-08-31 at 22 53 13_1dab4d02](https://github.com/user-attachments/assets/c277408c-abc0-4827-8320-153ae329790a)
+
 
 ## 📌 Project Overview  
 - **Goal:** Improve diagnostic accessibility & efficiency in fracture detection.  
@@ -76,10 +77,5 @@ Bone fractures are a major global health challenge, especially in **low-resource
 
 ---
 
-## 📂 Repository Structure  
-```bash
-├── data/                # Dataset links or preprocessing scripts
-├── models/              # Custom CNN + transfer learning implementations
-├── notebooks/           # Jupyter/Colab training notebooks
-├── results/             # Evaluation metrics & confusion matrices
-└── README.md            # Project overview
+## 📷 Screenshots
+
