@@ -13,9 +13,7 @@ Bone fractures are a major global health challenge, especially in **low-resource
 - **Approach:** Custom Convolutional Neural Network (CNN) + Benchmarking with Transfer Learning models (EfficientNetB0, MobileNetV2, ResNet50).  
 - **Dataset:** [FracAtlas](https://www.kaggle.com/datasets/tommyngx/fracatlas) – 4,083 anonymized musculoskeletal X-rays (hand, leg, hip).  
 - **Innovation:** A lightweight CNN architecture trained from scratch that outperforms transfer learning models.  
-
 ---
-
 ## ⚙️ Methodology / Workflow  
 1. **Data Preprocessing**  
    - Image resizing (128×128 → 224×224)  
@@ -37,7 +35,6 @@ Bone fractures are a major global health challenge, especially in **low-resource
    - ![WhatsApp Image 2025-08-31 at 22 53 01_3f0cd767](https://github.com/user-attachments/assets/5430c9c7-679f-4ae2-8ae7-edc6fbc3bd66)
    - ![WhatsApp Image 2025-08-31 at 22 53 22_a047d4c6](https://github.com/user-attachments/assets/48120a5a-627c-493a-ae98-3781bd0d3760)
 
-
 ---
 
 ## 📊 Results  
@@ -50,16 +47,12 @@ Bone fractures are a major global health challenge, especially in **low-resource
 
 ✅ Custom CNN **outperformed** all transfer learning baselines.  
 ✅ Lightweight design → scalable to **portable devices & healthcare systems**.  
-
 ---
-
 ## 🚀 Expected Impact  
 - Reduce reliance on radiologists in **resource-constrained settings**.  
 - Speed up workflows, enable **early detection**, and cut costs.  
 - Deployable on modest hardware → scalable for hospitals, clinics, and mobile health solutions.  
-
 ---
-
 ## ⚠️ Challenges & Future Work  
 - Dataset imbalance (fracture vs. non-fracture).  
 - Limited demographic diversity.  
@@ -70,14 +63,20 @@ Bone fractures are a major global health challenge, especially in **low-resource
 - Move beyond binary classification → fracture **localization, type, and severity grading**.  
 - Explore **Graph Neural Networks (GNNs)** and multi-scale feature extraction.  
 - Clinical validation and workflow integration.  
-
 ---
-
 ## 🔐 Ethics  
-- All data sourced from **public, anonymized datasets**.  
+- All data sourced from **public, anonymized datasets**.
 - No identifiable patient information used.  
 - Complies with **ethical standards** for AI in healthcare.  
 
+## Contributors
+This project is developed by a dedicated team of contributors, including:
+
+- Amna Hassan 
+- Ilsa Afzaal
+- Nouman Munib
+- Aniqa Batool
+- Hamail Noor
 ---
 
 
