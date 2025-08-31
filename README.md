@@ -33,7 +33,10 @@ Bone fractures are a major global health challenge, especially in **low-resource
    - ResNet50  
 
 4. **Evaluation Metrics**  
-   - Accuracy, Precision, Recall, F1-score  
+   - Accuracy, Precision, Recall, F1-score
+   - ![WhatsApp Image 2025-08-31 at 22 53 01_3f0cd767](https://github.com/user-attachments/assets/5430c9c7-679f-4ae2-8ae7-edc6fbc3bd66)
+   - ![WhatsApp Image 2025-08-31 at 22 53 22_a047d4c6](https://github.com/user-attachments/assets/48120a5a-627c-493a-ae98-3781bd0d3760)
+
 
 ---
 
@@ -77,5 +80,4 @@ Bone fractures are a major global health challenge, especially in **low-resource
 
 ---
 
-## 📷 Screenshots
 
