@@ -7,6 +7,9 @@ Bone fractures are a major global health challenge, especially in **low-resource
 
 ![WhatsApp Image 2025-08-31 at 22 53 13_1dab4d02](https://github.com/user-attachments/assets/c277408c-abc0-4827-8320-153ae329790a)
 
+![WhatsApp Image 2025-08-31 at 23 30 09_187d9a3f](https://github.com/user-attachments/assets/44c72c00-67c1-485b-8553-016c9822683c)
+
+
 
 ## 📌 Project Overview  
 - **Goal:** Improve diagnostic accessibility & efficiency in fracture detection.  
