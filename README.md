@@ -1,5 +1,26 @@
-# 🧠 AI-Based Applied Innovation for Fracture Detection in X-rays  
+#  Fracture Detection in X-rays  
 ### Using Custom CNN and Transfer Learning Models  
+## 🏆 Featured in Conferences
+
+<table>
+   <tr>
+      <th>Event Logo</th>
+      <th>Event Name</th>
+      <th>Event Description</th>
+   </tr>
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/9b2a64d5-1e47-4437-b4e4-e8101ce59ac0" width="450" height="auto" loading="lazy" alt="ICHPER 2025"/></td>
+      <td>ICHPER 2025 – International Conference on Health Professions Education and Research</td>
+      <td>
+         Our paper <b>“AI-Based Applied Innovation for Fracture Detection in X-rays”</b> 
+         was <b>selected for poster presentation</b> at the <b>International Conference on Health Professions Education and Research (ICHPER) 2025</b> 
+         under the <b>AI & Health-Tech Innovation Submissions</b>.  
+         The work introduces a lightweight CNN framework and benchmarks with transfer learning models 
+         (EfficientNetB0, MobileNetV2, ResNet50) on the <a href="https://www.kaggle.com/datasets/tommyngx/fracatlas">FracAtlas dataset</a>, 
+         aiming to improve diagnostic accessibility in low-resource healthcare regions.  
+      </td>
+   </tr>
+</table>
 
 🚑 **Automated Fracture Detection for Accessible Healthcare**  
 
