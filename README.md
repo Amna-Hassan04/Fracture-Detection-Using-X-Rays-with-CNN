@@ -1,5 +1,5 @@
 #  Fracture Detection in X-rays  
-### Fracture Detection In X-rays Using Custom CNN And Transfer Learning Models  
+### Fracture Detection In X-rays Using Custom Cnvolutional Neural Network (CNN) And Transfer Learning Models  
 ## 🏆 Featured in Conferences
 
 <table>
